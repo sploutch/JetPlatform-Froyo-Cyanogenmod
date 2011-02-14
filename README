@@ -1,0 +1,4 @@
+git clone -n git://github.com/sploutch/JetPlatform-Froyo-Cyanogenmod.git
+cd JetPlatform-Froyo-Cyanogenmod
+git checkout
+
